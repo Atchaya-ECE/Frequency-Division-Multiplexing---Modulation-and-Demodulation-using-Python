@@ -124,7 +124,7 @@ plt.show()
 # Output:
 ![WhatsApp Image 2025-11-26 at 14 37 49_7888c1c0](https://github.com/user-attachments/assets/2bdfcfc4-4123-4e23-ba7c-78b2e8858c6f)
 
-![WhatsApp Image 2025-11-26 at 14 37 49_b19e6182](https://github.com/user-attachments/assets/2bcb54b6-1a1a-4f74-bcf7-9c383b0d14b0)
+![WhatsApp Image 2025-11-26 at 13 49 11_8d7fe287](https://github.com/user-attachments/assets/dc9c5011-91f8-4e0e-815f-9a632d8192f5)
 
 ![WhatsApp Image 2025-11-26 at 14 37 49_71b26c3f](https://github.com/user-attachments/assets/73a78193-a843-42be-a193-aa00acedff48)
 
